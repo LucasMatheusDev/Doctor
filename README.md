@@ -1,5 +1,5 @@
 # Doctor
 aplicação desenvolvida para área da saúde, exibição como portfolio.  
-Exibição das telas iniciais do codigo
+Exibição do codigo das telas iniciais 
 Projeto criado com estrura de modulos e componetização de widget
-ESTE CODIGO PODE SER USADOS POR QUALQUER UM.
+ESTE CODIGO PODE SER USADO POR QUALQUER UM.
